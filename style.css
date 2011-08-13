@@ -1,0 +1,18 @@
+* {
+	font-family:Arial;
+}
+body {
+	color:black;
+	font-family:bold;
+	background-color: lightgrey ;
+}
+	
+form ul li {
+	list-style:none;
+}
+form ul li .input_text{
+	text-align:center;
+	height: 30px;
+	width: 50px;
+	font-size: 16px;
+}
